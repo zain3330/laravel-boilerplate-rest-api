@@ -10,7 +10,7 @@ use Illuminate\Http\Request;
 use Illuminate\Routing\Controller as BaseController;
 use Illuminate\Support\Facades\Hash;
 use App\Models\User;
-use Exception;
+
 
 class AuthController extends BaseController
 {
